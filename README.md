@@ -1,2 +1,2 @@
-# Veronika-proekt
+proekt Math
 Опис
